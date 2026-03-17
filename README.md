@@ -31,7 +31,7 @@ The application features a modern **green and black UI theme**, providing a clea
 ## 📂 How to Run the Project
 
 1. Download or copy the project files
-2. Open the `.html` file in any web browser
+2. Open the `main.class` file in vs code
 3. Start adding your transactions and track your savings
 
 ---
